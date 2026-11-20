@@ -1,0 +1,6 @@
+{
+  "name": "Pakistan Market Intelligence",
+  "description": "Live commodity prices, market trends, and regional intelligence powered by aggregated Pakistani public market data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
